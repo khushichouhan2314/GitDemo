@@ -1,3 +1,4 @@
 # Ignore log files and log folder 
 *.log 
 /log/ 
+*.orig 
